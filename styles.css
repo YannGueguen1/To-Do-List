@@ -65,5 +65,6 @@ code {
 
 .todo-completed{
   text-decoration: line-through;
-  background-color: yellow;
+  background-color: lightblue;
+  opacity: 0.7;
 }

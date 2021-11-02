@@ -20,7 +20,6 @@ function App(){
   }
   const removeTodo = index => {
     todos[index].isCompleted = !todos[index].isCompleted;
-    console.log(todos)
     // let temp = [...todos];    
     // temp.splice(index, 1);
     // setTodos(temp);
